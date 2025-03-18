@@ -1,0 +1,4 @@
+1. Set app.py file
+2. add requirement.txt file 
+3. create dockerfile
+4. Write code to crate a docker image 
